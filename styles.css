@@ -273,4 +273,8 @@ img {
         justify-content: center;
         position: fixed;
     }
+
+    .wrapper .icon{
+        margin: 24px;
+    }
 }
