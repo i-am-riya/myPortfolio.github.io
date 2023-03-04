@@ -257,7 +257,7 @@ img {
   }
 
 
-@media (max-width: 75rem) {
+@media (max-width: 758px) {
     html {
         box-sizing: border-box;
         font-size: 60%;
@@ -275,6 +275,6 @@ img {
     }
 
     .wrapper .icon{
-        margin: 20px;
+        margin: 18px;
     }
 }
